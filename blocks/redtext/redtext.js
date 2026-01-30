@@ -1,4 +1,3 @@
-
 export default function decorate(block) {
   // Add a small effect on hover using JavaScript (optional)
   block.addEventListener('mouseenter', () => {
